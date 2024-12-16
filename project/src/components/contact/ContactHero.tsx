@@ -9,7 +9,7 @@ export default function ContactHero() {
         <h1 className="text-4xl md:text-5xl font-bold mb-6">Get in Touch</h1>
         <p className="text-xl text-blue-100 max-w-2xl mx-auto">
           Have a question, opportunity, or just want to say hello? Send me a message, 
-          and I'll respond promptly !
+          and I'll respond promptly!
         </p>
       </div>
     </div>
